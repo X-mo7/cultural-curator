@@ -1,0 +1,1 @@
+"""Cultural Curator backend package."""
